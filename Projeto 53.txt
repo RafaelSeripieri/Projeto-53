@@ -1,0 +1,24 @@
+1. Javascript
+
+2. HTML
+
+3. Dividir e Organizar
+
+4. O posicionamento relativo é quando você tem um menu e ele
+   some quando você sobe a tela e o posicionamento absoluto é
+   quando o menu não some ao você subir a tela
+
+5. É pra mudar a vizibilidade do elemento
+
+6. JavaScript
+
+7. Expo
+
+8. Escanear QR Code
+
+9. Mostrar os elementos na tela
+
+10. Complemento do render porque ele tambem mostra os elementos
+    na tela
+
+11. Image, Text, Button
